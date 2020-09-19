@@ -32,7 +32,9 @@ dena_pitcher_data = dena_scrap.get_table() # データを取得
 ```
 
 ## Future Work
-* 最低限の前処理
+* requirement.txtの追加
+* setup.pyの追加
+* 最低限の前処理の統合
 * 守備指標の取得
 * チーム成績の取得
 * 球団名が変わった場合の対応
